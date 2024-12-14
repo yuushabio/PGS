@@ -10,35 +10,26 @@ namespace PGS
     {
         public static void ShortcutGUI()
         {
-            // Create the dialog.
-            Forms.ShortDialog  = new Form_ShortMenu();
-            Forms.ConfigDialog = new Form_ConfigMenu();
-            Forms.InfoDialog   = new Form_ScreenInfo();
+            // Create main screen.
+            Forms.MainScreen = new Form_MainScreen();
+            Forms.IdentifyScreen = new Form_IdentifyScreens();
 
             // Set the version number on dialog title bars.
-            Forms.ShortDialog.Text = "PGS v" + Config.PGSVersion;
-
-            // Scale the shortcut dialog.
-            Forms.ScaleConfigDialog();
-            Forms.ScaleShortcutDialog();
-            Forms.ScaleInfoDialog();
+            Forms.MainScreen.Text = "PGS v" + Config.PGSVersion;
 
             // Update the info form to show screen information.
             Functions.UpdateScreenInfo(true);
 
-            // Hide the arguments by default.
-            Forms.ArgumentsToggle();
-
             // Update the values on the GUI.
-            Forms.ConfigDialog.Monitor01NumBox.Value = decimal.Parse(Config.Monitor01_ID, CultureInfo.InvariantCulture);
-            Forms.ConfigDialog.Monitor02NumBox.Value = decimal.Parse(Config.Monitor02_ID, CultureInfo.InvariantCulture);
-            Forms.ConfigDialog.CountdownNumBox.Value = decimal.Parse(Config.Countdown, CultureInfo.InvariantCulture);
-            Forms.ConfigDialog.NoGUICheckBox.Checked = Config.NoGUI;
-            Forms.ConfigDialog.NoTimerCheckbox.Checked = Config.NoTimer;
-            Forms.ConfigDialog.DesktopIconsCheckbox.Checked = Config.SaveIconPos;
+            //Forms.ConfigDialog.Monitor01NumBox.Value = decimal.Parse(Config.Monitor01_ID, CultureInfo.InvariantCulture);
+            //Forms.ConfigDialog.Monitor02NumBox.Value = decimal.Parse(Config.Monitor02_ID, CultureInfo.InvariantCulture);
+            //Forms.ConfigDialog.CountdownNumBox.Value = decimal.Parse(Config.Countdown, CultureInfo.InvariantCulture);
+            //Forms.ConfigDialog.NoGUICheckBox.Checked = Config.NoGUI;
+            //Forms.ConfigDialog.NoTimerCheckbox.Checked = Config.NoTimer;
+            //Forms.ConfigDialog.DesktopIconsCheckbox.Checked = Config.SaveIconPos;
 
-            // Show the shortcut dialog.
-            Forms.ShortDialog.ShowDialog();
+            // Show main screen.
+            Forms.MainScreen.ShowDialog();
 
             // Update the values in the configuration file.
             Config.WriteINIValues();
@@ -65,7 +56,7 @@ namespace PGS
             Icon FormIcon = Functions.IconFromFilePath(Config.GamePath);
 
             // Create the dialogs.
-            Forms.MainDialog = new Form_MainMenu();
+            Forms.MainDialog = new Form_MainScreen();
             Forms.InfoDialog = new Form_ScreenInfo();
             Forms.WaitDialog = new Form_WaitMenu();
 
@@ -77,7 +68,6 @@ namespace PGS
             Forms.WaitDialog.Text = "PGS v" + Config.PGSVersion;
 
             // Scale the dialogs with DPI.
-            Forms.ScaleMainDialog();
             Forms.ScaleWaitDialog();
             Forms.ScaleInfoDialog();
 
@@ -86,17 +76,17 @@ namespace PGS
 
             // Set the timer value.
             GameTimer.Countdown = Int32.Parse(Config.Countdown);
-            Forms.MainDialog.TimerLabel.Text = Config.Countdown;
+            //Forms.MainScreen.Text = Config.Countdown;
 
             // Update the values on the GUI.
-            Forms.MainDialog.Monitor01NumBox.Value = decimal.Parse(Config.Monitor01_ID, CultureInfo.InvariantCulture);
-            Forms.MainDialog.Monitor02NumBox.Value = decimal.Parse(Config.Monitor02_ID, CultureInfo.InvariantCulture);
+            //Forms.MainDialog.Monitor01NumBox.Value = decimal.Parse(Config.Monitor01_ID, CultureInfo.InvariantCulture);
+            //Forms.MainDialog.Monitor02NumBox.Value = decimal.Parse(Config.Monitor02_ID, CultureInfo.InvariantCulture);
 
             // Get the file as an item.
             FileItem GameItem = new FileItem(Config.GamePath);
 
             // Set the textbox to executable and args.
-            Forms.MainDialog.GameTextBox.Text = GameItem.Name + " " + Config.GameArgs;
+            //Forms.MainDialog.GameTextBox.Text = GameItem.Name + " " + Config.GameArgs;
 
             // If the user did not skip the timer then start it now.
             if (!Config.NoTimer)
@@ -111,7 +101,7 @@ namespace PGS
             else
             {
                 // No timer means no need to display this label.
-                Forms.MainDialog.TimerLabel.Text = "";
+                //Forms.MainDialog.TimerLabel.Text = "";
             }
             // Show the main dialog.
             Forms.MainDialog.ShowDialog();

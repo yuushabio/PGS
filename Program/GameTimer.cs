@@ -23,7 +23,7 @@ namespace PGS
             GameTimer.Timer.Stop();
 
             // Hide the timer label.
-            Forms.MainDialog.TimerLabel.Text = "";
+            //Forms.MainScreen.TimerLabel.Text = "";
         }
 
         public static void Tick(object sender, EventArgs e)
@@ -35,7 +35,7 @@ namespace PGS
                 GameTimer.Countdown -= 1;
 
                 // Update the label on the dialog.
-                Forms.MainDialog.TimerLabel.Text = Countdown.ToString();
+                //Forms.MainDialog.TimerLabel.Text = Countdown.ToString();
             }
             // Time is up.
             else
@@ -54,18 +54,18 @@ namespace PGS
         public static void AddStopTimerEvents()
         {
             // Add this event to all controls to stop the timer. VS2022 likes to delete them when added in "Designer".
-            Forms.MainDialog.Click += new EventHandler(Stop);
-            Forms.MainDialog.MainGroupBox.Click += new EventHandler(Stop);
-            Forms.MainDialog.Monitor01Label.Click += new EventHandler(Stop);
-            Forms.MainDialog.Monitor02Label.Click += new EventHandler(Stop);
-            Forms.MainDialog.Monitor01NumBox.Click += new EventHandler(Stop);
-            Forms.MainDialog.Monitor02NumBox.Click += new EventHandler(Stop);
-            Forms.MainDialog.Monitor01NumBox.ValueChanged += new EventHandler(Stop);
-            Forms.MainDialog.Monitor02NumBox.ValueChanged += new EventHandler(Stop);
-            Forms.MainDialog.GameGroupBox.Click += new EventHandler(Stop);
-            Forms.MainDialog.GameButton.Click += new EventHandler(Stop);
-            Forms.MainDialog.GameTextBox.Click += new EventHandler(Stop);
-            Forms.MainDialog.TimerLabel.Click += new EventHandler(Stop);
+            //Forms.MainDialog.Click += new EventHandler(Stop);
+            //Forms.MainDialog.MainGroupBox.Click += new EventHandler(Stop);
+            //Forms.MainDialog.Monitor01Label.Click += new EventHandler(Stop);
+            //Forms.MainDialog.Monitor02Label.Click += new EventHandler(Stop);
+            //Forms.MainDialog.Monitor01NumBox.Click += new EventHandler(Stop);
+            //Forms.MainDialog.Monitor02NumBox.Click += new EventHandler(Stop);
+            //Forms.MainDialog.Monitor01NumBox.ValueChanged += new EventHandler(Stop);
+            //Forms.MainDialog.Monitor02NumBox.ValueChanged += new EventHandler(Stop);
+            //Forms.MainDialog.GameGroupBox.Click += new EventHandler(Stop);
+            //Forms.MainDialog.GameButton.Click += new EventHandler(Stop);
+            //Forms.MainDialog.GameTextBox.Click += new EventHandler(Stop);
+            //Forms.MainDialog.TimerLabel.Click += new EventHandler(Stop);
         }
     }
 }

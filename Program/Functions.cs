@@ -63,7 +63,7 @@ namespace PGS
             if (RecievedFile != "")
             {
                 // Build a string to assemble the arguments.
-                string ArgsList = '"' + RecievedFile + '"' + " " + Forms.ShortDialog.ArgumentsTextBox.Text;
+                //string ArgsList = '"' + RecievedFile + '"' + " " + Forms.ShortDialog.ArgumentsTextBox.Text;
 
                 // Create a new openfolder dialog.
                 FolderSelectDialog FolderDialog = new FolderSelectDialog();
@@ -87,7 +87,7 @@ namespace PGS
                     WshShell WShell = new WshShell();
                     IWshShortcut WShortCut = (IWshShortcut)WShell.CreateShortcut(ShortcutPath);
                     WShortCut.TargetPath = Config.AppPath;
-                    WShortCut.Arguments = ArgsList;
+                    //WShortCut.Arguments = ArgsList;
                     WShortCut.WorkingDirectory = Config.BaseFolder;
                     WShortCut.IconLocation = RecievedFile;
                     WShortCut.Save();
@@ -116,16 +116,9 @@ namespace PGS
             string DisplayInfo = "";
 
             // Adjust the maximum value for the numeric up/downs based on the source of the call.
-            if (FromConfigDialog)
-            {
-                Forms.ConfigDialog.Monitor01NumBox.Maximum = Monitors.Length;
-                Forms.ConfigDialog.Monitor02NumBox.Maximum = Monitors.Length;
-            }
-            else
-            {
-                Forms.MainDialog.Monitor01NumBox.Maximum = Monitors.Length;
-                Forms.MainDialog.Monitor02NumBox.Maximum = Monitors.Length;
-            }
+            Control[] controls = Forms.MainScreen.Controls.Find("mainTabsPage", true);
+            //Forms.MainScreen.Controls.Find('mainTabsPage').Monitor01NumBox.Maximum = Monitors.Length;
+            //Forms.MainDialog.Monitor02NumBox.Maximum = Monitors.Length;
 
             // Store monitor names as they are received.
             for (int i = 0; i < Monitors.Length; i++)
@@ -197,7 +190,7 @@ namespace PGS
             DisplayInfo = String.Format(DisplayInfo, Environment.NewLine);
 
             // Add the text to the rich text box.
-            Forms.InfoDialog.InfoRichTextBox.Text = DisplayInfo;
+            //Forms.InfoDialog.InfoRichTextBox.Text = DisplayInfo;
         }
 
     }

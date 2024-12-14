@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\program\\launch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:program\\launch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\program\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:program\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\program\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:program\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\program\\forms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:program\\forms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\program\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:program\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_identifyscreens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_identifyscreens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_waitmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_waitmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_waitmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_waitmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_errormenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_errormenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_errormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_errormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_createshortcut.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_createshortcut.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_createshortcut.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_createshortcut.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_configmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_configmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\imported\\customtexturetool\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:imported\\customtexturetool\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\imported\\customtexturetool\\dpi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:imported\\customtexturetool\\dpi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_mainscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_mainscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_createshortcut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_createshortcut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_configmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_configmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|c:\\users\\yuushabio-prime\\source\\repos\\pgs\\forms\\form_createshortcut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36D17956-09EE-4B93-8540-D201B0DE3D9B}|PGS.csproj|solutionrelative:forms\\form_createshortcut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameTimer.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Program\\GameTimer.cs",
+              "RelativeDocumentMoniker": "Program\\GameTimer.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Program\\GameTimer.cs",
+              "RelativeToolTip": "Program\\GameTimer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwD4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:45:49.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-14T21:34:00.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Program\\Functions.cs",
+              "RelativeDocumentMoniker": "Program\\Functions.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Program\\Functions.cs",
+              "RelativeToolTip": "Program\\Functions.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAwHsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:33:47.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Initialization.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Initialization.cs",
+              "RelativeDocumentMoniker": "Initialization.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Initialization.cs",
+              "RelativeToolTip": "Initialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:31:06.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form_IdentifyScreens.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_IdentifyScreens.cs",
+              "RelativeDocumentMoniker": "Forms\\Form_IdentifyScreens.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_IdentifyScreens.cs [Design]",
+              "RelativeToolTip": "Forms\\Form_IdentifyScreens.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:22:18.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form_WaitMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_WaitMenu.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Form_WaitMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_WaitMenu.Designer.cs",
+              "RelativeToolTip": "Forms\\Form_WaitMenu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:20:11.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form_WaitMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_WaitMenu.cs",
+              "RelativeDocumentMoniker": "Forms\\Form_WaitMenu.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_WaitMenu.cs",
+              "RelativeToolTip": "Forms\\Form_WaitMenu.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:20:09.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form_Information.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_Information.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Form_Information.Designer.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_Information.Designer.cs",
+              "RelativeToolTip": "Forms\\Form_Information.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAMwFIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:19:57.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form_Information.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_Information.cs",
+              "RelativeDocumentMoniker": "Forms\\Form_Information.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_Information.cs",
+              "RelativeToolTip": "Forms\\Form_Information.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:19:54.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Launch.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Program\\Launch.cs",
+              "RelativeDocumentMoniker": "Program\\Launch.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Program\\Launch.cs*",
+              "RelativeToolTip": "Program\\Launch.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:11:12.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Forms.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Program\\Forms.cs",
+              "RelativeDocumentMoniker": "Program\\Forms.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Program\\Forms.cs",
+              "RelativeToolTip": "Program\\Forms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:12:33.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form_ErrorMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_ErrorMenu.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Form_ErrorMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_ErrorMenu.Designer.cs",
+              "RelativeToolTip": "Forms\\Form_ErrorMenu.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAMwFIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:19:50.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form_ErrorMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_ErrorMenu.cs",
+              "RelativeDocumentMoniker": "Forms\\Form_ErrorMenu.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_ErrorMenu.cs",
+              "RelativeToolTip": "Forms\\Form_ErrorMenu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:19:45.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Program\\Config.cs",
+              "RelativeDocumentMoniker": "Program\\Config.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Program\\Config.cs",
+              "RelativeToolTip": "Program\\Config.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:19:13.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form_CreateShortcut.resx",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\Source\\Repos\\PGS\\Forms\\Form_CreateShortcut.resx",
+              "RelativeDocumentMoniker": "Forms\\Form_CreateShortcut.resx",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\Source\\Repos\\PGS\\Forms\\Form_CreateShortcut.resx",
+              "RelativeToolTip": "Forms\\Form_CreateShortcut.resx",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAIEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-14T21:19:40.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form_CreateShortcut.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\Source\\Repos\\PGS\\Forms\\Form_CreateShortcut.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Form_CreateShortcut.Designer.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\Source\\Repos\\PGS\\Forms\\Form_CreateShortcut.Designer.cs",
+              "RelativeToolTip": "Forms\\Form_CreateShortcut.Designer.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAMwJ0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:19:28.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form_ConfigMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_ConfigMenu.cs",
+              "RelativeDocumentMoniker": "Forms\\Form_ConfigMenu.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_ConfigMenu.cs",
+              "RelativeToolTip": "Forms\\Form_ConfigMenu.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:19:23.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Files.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Imported\\CustomTextureTool\\Files.cs",
+              "RelativeDocumentMoniker": "Imported\\CustomTextureTool\\Files.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Imported\\CustomTextureTool\\Files.cs",
+              "RelativeToolTip": "Imported\\CustomTextureTool\\Files.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:19:20.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DPI.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Imported\\CustomTextureTool\\DPI.cs",
+              "RelativeDocumentMoniker": "Imported\\CustomTextureTool\\DPI.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Imported\\CustomTextureTool\\DPI.cs",
+              "RelativeToolTip": "Imported\\CustomTextureTool\\DPI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:19:17.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:19:10.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form_CreateShortcut.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_CreateShortcut.cs",
+              "RelativeDocumentMoniker": "Forms\\Form_CreateShortcut.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_CreateShortcut.cs",
+              "RelativeToolTip": "Forms\\Form_CreateShortcut.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:18:52.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form_CreateShortcut.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_CreateShortcut.cs",
+              "RelativeDocumentMoniker": "Forms\\Form_CreateShortcut.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_CreateShortcut.cs [Design]",
+              "RelativeToolTip": "Forms\\Form_CreateShortcut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:16:47.658Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form_ConfigMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_ConfigMenu.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Form_ConfigMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_ConfigMenu.Designer.cs",
+              "RelativeToolTip": "Forms\\Form_ConfigMenu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:15:48.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form_MainScreen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\Source\\Repos\\PGS\\Forms\\Form_MainScreen.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Form_MainScreen.Designer.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\Source\\Repos\\PGS\\Forms\\Form_MainScreen.Designer.cs",
+              "RelativeToolTip": "Forms\\Form_MainScreen.Designer.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAMwE4BAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:11:42.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form_MainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_MainScreen.cs",
+              "RelativeDocumentMoniker": "Forms\\Form_MainScreen.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_MainScreen.cs",
+              "RelativeToolTip": "Forms\\Form_MainScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:10:59.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "e79f707b-d873-4fb6-9ed3-6c29bd896d57",
+        "Display": 1,
+        "X": 343,
+        "Y": 134,
+        "Width": 1845,
+        "Height": 1140,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_MainScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_MainScreen.cs",
+              "RelativeDocumentMoniker": "Forms\\Form_MainScreen.cs",
+              "ToolTip": "C:\\Users\\Yuushabio-PRIME\\source\\repos\\PGS\\Forms\\Form_MainScreen.cs [Design]",
+              "RelativeToolTip": "Forms\\Form_MainScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:11:04.806Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
